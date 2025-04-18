@@ -1,7 +1,7 @@
 
 # Custom Log Formatting
 
-This library allows you to configurate ordered prefix and suffix values on log messages. It uses Func delegates with string return value to write on message console.
+This library allows you to configurate ordered prefix and suffix values on log messages. It uses Func delegates with string return value to write on message console. It's useful and emerged as a necessity to standarize log messages across a company with multiple software projects.
 
 ## Configuration
 
