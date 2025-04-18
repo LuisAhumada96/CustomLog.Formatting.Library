@@ -1,5 +1,6 @@
 
 # Custom Log Formatting
+[![NuGet](https://img.shields.io/nuget/v/Library.CustomLogFormatting?label=NuGet&logo=nuget&style=flat)](https://www.nuget.org/packages/Library.CustomLogFormatting) [![NuGet](https://img.shields.io/nuget/dt/Library.CustomLogFormatting?logo=nuget&style=flat)](https://www.nuget.org/packages/Library.CustomLogFormatting) [![Codacy Grade](https://img.shields.io/codacy/grade/315c3d5a06a441bda26ffd88e705fa63?style=flat)](https://app.codacy.com/gh/LuisAhumada96/Library.CustomLogFormatting/dashboard)
 
 This library allows you to configurate ordered prefix and suffix values on log messages. It uses Func delegates with string return value to write on message console. It's useful and emerged as a necessity to standarize log messages across a company with multiple software projects.
 
